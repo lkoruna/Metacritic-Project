@@ -1,7 +1,8 @@
 # Metacritic-Project
-Testing Data Mining on Metacritic Data on Video Games
+My basic goal for this mini-project was to do some data mining on some video game data - a subject I enjoy greatly.
+
 For this project, I built my own scraper and took a bunch of data from the video game section of metacritic.com
-metacritic.csv is the result of the scraper, and contains contains some 13000 observations of different video games released on the PS4 all the way back to the Nintendo 64
+metacritic.csv is the result of the scraper, and contains contains some 13000 observations of different video games released on the PS4 all the way back to the Nintendo 64.
 
 I wanted to accomplish a few things with these notebooks:
 1. Test out some data processing/cleanup
